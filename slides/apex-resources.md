@@ -3,7 +3,7 @@
 
 new-slide-vertical
 
-# [apex.world](http://apex.world)
+# [apex.world](http://apex.world/)
 
 ### For the community, by the community
 

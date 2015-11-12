@@ -22,7 +22,7 @@ new-slide-vertical
 - Intro
 - APEX 5
 - APEX Resources
-- Wrap up 
+- Wrap up
 
 new-slide-vertical
 
@@ -43,6 +43,14 @@ new-slide-vertical
 # <span class="white">Sponsors</span>
 
 new-slide-vertical
+
+# [Trident](http://www.tridentexploration.ca/)
+
+<p class="no-bullet"></p>
+- Thanks to Jean Paradis for this space!
+
+new-slide-vertical
+
 
 [![ODTUG](www/img/logo-odtug.png)](http://odtug.com)
 
