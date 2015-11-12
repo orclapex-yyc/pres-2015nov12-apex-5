@@ -7,6 +7,12 @@
 
 new-slide-vertical
 
+# Logo
+
+Make your mark!
+
+new-slide-vertical
+
 # <i class="fa fa-question-circle fa-2x"></i>
 
 <p class="no-bullet"></p>

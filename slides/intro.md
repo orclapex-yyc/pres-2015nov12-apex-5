@@ -1,5 +1,5 @@
 ## ORCLAPEX-YYC
-![caglary](/www/img/calgary.jpg)
+
 ### 1st Meetup - APEX 5
 
 
@@ -7,8 +7,9 @@
 - <i class="fa fa-users"></i> [Meetup](http://www.meetup.com/orclapex-YYC/)
 - <i class="fa fa-github"></i> [orclapex-yyc](https://github.com/orclapex-yyc)
 
-
-TODO presentation slides links
+</br>
+- Presentation: [bit.ly/orclapex-yyc-12nov2015](http://orclapex-yyc.github.io/pres-2015nov12-apex-5/)
+- Slides: [github.com/orclapex-yyc/pres-2015nov12-apex-5](https://github.com/orclapex-yyc/pres-2015nov12-apex-5)
 
 Notes:
 - [Turn off notes](javascript: Reveal.configure({"showNotes": false}&#41;;)
@@ -17,11 +18,11 @@ Notes:
 new-slide-vertical
 # Agenda
 
-TODO
+
 - Intro
 - APEX 5
 - APEX Resources
-- Future Meetings
+- Wrap up 
 
 new-slide-vertical
 
