@@ -37,6 +37,7 @@ reload(server, app, 600, true)
 
 server.listen(app.get('port'), function(){
   console.log("Web server listening on port " + app.get('port'));
+  console.log('http://localhost:' + app.get('port'));
 });
 
 
