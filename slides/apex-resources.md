@@ -26,3 +26,4 @@ new-slide-vertical
 - [apex.oracle.com](http://apex.oracle.com)
 - [OXAR](https://github.com/OraOpenSource/OXAR)
   - Build script for XE, APEX, ORDS, Node.js, etc.
+- [Database Virtual Box Appliance](http://www.oracle.com/technetwork/database/enterprise-edition/databaseappdev-vm-161299.html)
